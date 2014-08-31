@@ -1,0 +1,1 @@
+For Geolocation final project: Proof of concept on being able to track users using only JS.
